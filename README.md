@@ -1,8 +1,6 @@
-# README
+# wails-svelte-template
 
-## About
-
-Minimal [Wails 2.0](https://wails.io/) + [Svelte](https://svelte.dev) template.
+A minimal [Wails](https://wails.io/) template based on [Svelte](https://svelte.dev).
 
 ## Usage
 
