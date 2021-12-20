@@ -1,0 +1,7 @@
+{
+    "name": "Wails Svelte Template",
+    "shortname": "wails-svelte-template",
+    "author": "@raitonoberu",
+    "description": "Svelte template for Wails",
+    "helpurl": "https://github.com/raitonoberu/wails-svelte-template"
+}
